@@ -22,7 +22,8 @@ Run commands
 
 <!-- ![Template Screenshot](TemplateScreenshot.jpg?raw=true "Template Screenshot") -->
 
-AMAZON REACT.JS Challenge | Day 2 (Complete Frontend & API | Next.js)
+s)
+AMAZON-CLONE with React.js | Next.js | Fakestore API | Next Auth
 
 Deployed with Vercel
 
