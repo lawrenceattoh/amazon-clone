@@ -26,4 +26,4 @@ AMAZON REACT.JS Challenge | Day 2 (Complete Frontend & API | Next.js)
 
 Deployed with Vercel
 
-https://amazon-clone-mdvybbtzz-lawrenceattoh.vercel.app/
+https://amazon-clone-lawrenceattoh.vercel.app/
